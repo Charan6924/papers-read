@@ -9,6 +9,7 @@ A running log of research papers I've read.
 - Language Models are Few-Shot Learners (GPT-3) — Brown et al., 2020
 - GPT-4 Technical Report — OpenAI, 2023
 - Training language models to follow instructions with human feedback (InstructGPT) — Ouyang et al., 2022
+- GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints — Ainslie et al., 2023
 
 ## Scaling
 
