@@ -62,6 +62,10 @@ A running log of research papers I've read.
 
 - Image Filtering as an Alternative to the Application of a Different Reconstruction Kernel in CT Imaging: Feasibility Study in Lung Cancer Screening — Ohkubo et al., 2011
 
+## Tree-Based Methods / Ensembles
+
+- XGBoost: A Scalable Tree Boosting System — Chen & Guestrin, 2016
+
 ## Generative Models
 
 - Denoising Diffusion Probabilistic Models (DDPM) — Ho et al., 2020
