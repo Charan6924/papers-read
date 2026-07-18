@@ -15,6 +15,7 @@ A running log of research papers I've read.
 
 - Scaling Laws for Neural Language Models — Kaplan et al., 2020
 - Training Compute-Optimal Large Language Models (Chinchilla) — Hoffmann et al., 2022
+- Scaling Laws, Carefully — Weng, 2026
 - LLaMA: Open and Efficient Foundation Language Models — Touvron et al., 2023
 - LLaMA 2: Open Foundation and Fine-Tuned Chat Models — Touvron et al., 2023
 - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer — Shazeer et al., 2017
