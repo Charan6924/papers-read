@@ -64,6 +64,7 @@ A running log of research papers I've read.
 
 ## Tree-Based Methods / Ensembles
 
+- Greedy Function Approximation: A Gradient Boosting Machine — Friedman, 2001
 - XGBoost: A Scalable Tree Boosting System — Chen & Guestrin, 2016
 
 ## Generative Models
