@@ -26,6 +26,7 @@ A running log of research papers I've read.
 ## Alignment & Safety
 
 - Constitutional AI: Harmlessness from AI Feedback — Bai et al., 2022
+- Learning to Summarize from Human Feedback — Stiennon et al., 2020
 - Proximal Policy Optimization Algorithms (PPO) — Schulman et al., 2017
 - Direct Preference Optimization (DPO): Your Language Model is Secretly a Reward Model — Rafailov et al., 2023
 - OpenAI o1 System Card — OpenAI, 2024
