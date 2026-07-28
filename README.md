@@ -10,12 +10,14 @@ A running log of research papers I've read.
 - GPT-4 Technical Report — OpenAI, 2023
 - Training language models to follow instructions with human feedback (InstructGPT) — Ouyang et al., 2022
 - GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints — Ainslie et al., 2023
+- Kimi K3 Technical Report — Moonshot AI, 2026
 
 ## Scaling
 
 - Scaling Laws for Neural Language Models — Kaplan et al., 2020
 - Training Compute-Optimal Large Language Models (Chinchilla) — Hoffmann et al., 2022
 - Scaling Laws, Carefully — Weng, 2026
+- Scaling Language Models: Methods, Analysis & Insights from Training Gopher — Rae et al., 2021
 - LLaMA: Open and Efficient Foundation Language Models — Touvron et al., 2023
 - LLaMA 2: Open Foundation and Fine-Tuned Chat Models — Touvron et al., 2023
 - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer — Shazeer et al., 2017
