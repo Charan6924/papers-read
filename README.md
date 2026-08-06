@@ -57,6 +57,7 @@ A running log of research papers I've read.
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness — Dao et al., 2022
 - FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning — Dao, 2023
 - QLoRA: Efficient Finetuning of Quantized LLMs — Dettmers et al., 2023
+- PagedAttention: Efficient Memory Management for Large Language Model Serving — Kwon et al., 2023
 
 ## Vision
 
