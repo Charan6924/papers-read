@@ -24,6 +24,7 @@ A running log of research papers I've read.
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity — Lepikhin et al., 2021
 - Mistral 7B — Jiang et al., 2023
 - Mixtral of Experts — Jiang et al., 2024
+- Scaling Laws Meet Model Architecture: Toward Inference-Efficient LLMs — Bian et al., 2025
 
 ## Alignment & Safety
 
