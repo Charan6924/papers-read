@@ -26,6 +26,8 @@ A running log of research papers I've read.
 - Mistral 7B — Jiang et al., 2023
 - Mixtral of Experts — Jiang et al., 2024
 - Scaling Laws Meet Model Architecture: Toward Inference-Efficient LLMs — Bian et al., 2025
+- GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers — Frantar et al., 2022
+- Mamba: Linear-Time Sequence Modeling with Selective State Spaces — Gu & Dao, 2023
 
 ## Alignment & Safety
 
@@ -35,6 +37,7 @@ A running log of research papers I've read.
 - Direct Preference Optimization (DPO): Your Language Model is Secretly a Reward Model — Rafailov et al., 2023
 - RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback — Lee et al., 2023
 - OpenAI o1 System Card — OpenAI, 2024
+- Reward Model Ensembles Help Mitigate Overoptimization — Coste et al., 2023
 
 ## Human-Computer Interaction
 
@@ -64,11 +67,17 @@ A running log of research papers I've read.
 - Orca: A Distributed Serving System for Transformer-Based Generative Models — Yu et al., 2022
 - PLoRA: Efficient Concurrent LoRA Training for Large Language Models — Yan et al., 2025
 - Understanding and Profiling the Accelerator Chiplet Network Using PingPoint — Ryu, Liu & Sinclair, 2026 (read 2026-09-02)
+- Efficient Memory Management for Large Language Model Serving with PagedAttention — Kwon et al., 2023
+- Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads — Cai et al., 2024
+- FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU — Sheng et al., 2023
 
 ## Vision
 
 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT) — Dosovitskiy et al., 2020
 - Contrastive Learning for Unpaired Image-to-Image Translation (CUT) — Park, Efros, Zhang, Zhu, 2020
+- CLIP: Learning Transferable Visual Models From Natural Language Supervision — Radford et al., 2021
+- LLaVA: Large Language and Vision Assistant — Liu et al., 2023
+- Segment Anything (SAM) — Kirillov et al., 2023
 - Spectrum-to-Kernel Translation for Accurate Blind Image Super-Resolution — Tao et al., 2021 (NeurIPS)
 
 ## Medical Imaging
@@ -83,3 +92,12 @@ A running log of research papers I've read.
 ## Generative Models
 
 - Denoising Diffusion Probabilistic Models (DDPM) — Ho et al., 2020
+- High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion) — Rombach et al., 2022
+- Hierarchical Text-Conditional Image Generation with CLIP Latents (DALL-E 2) — Ramesh et al., 2022
+- Scalable Diffusion Models with Transformers (DiT) — Peebles & Xie, 2023
+
+## LLM Inference Systems
+
+- Sarathi: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills — Agrawal et al., 2023
+- DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving — Zhong et al., 2024
+- Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving — Qin et al., 2024
