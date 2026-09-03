@@ -63,6 +63,7 @@ A running log of research papers I've read.
 - PagedAttention: Efficient Memory Management for Large Language Model Serving — Kwon et al., 2023
 - Orca: A Distributed Serving System for Transformer-Based Generative Models — Yu et al., 2022
 - PLoRA: Efficient Concurrent LoRA Training for Large Language Models — Yan et al., 2025
+- Understanding and Profiling the Accelerator Chiplet Network Using PingPoint — Ryu, Liu & Sinclair, 2026 (read 2026-09-02)
 
 ## Vision
 
