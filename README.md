@@ -66,6 +66,7 @@ A running log of research papers I've read.
 - PagedAttention: Efficient Memory Management for Large Language Model Serving — Kwon et al., 2023
 - Orca: A Distributed Serving System for Transformer-Based Generative Models — Yu et al., 2022
 - PLoRA: Efficient Concurrent LoRA Training for Large Language Models — Yan et al., 2025
+- PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling — Cai et al., 2024 (read 2026-09-03)
 - Understanding and Profiling the Accelerator Chiplet Network Using PingPoint — Ryu, Liu & Sinclair, 2026 (read 2026-09-02)
 - Efficient Memory Management for Large Language Model Serving with PagedAttention — Kwon et al., 2023
 - Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads — Cai et al., 2024
