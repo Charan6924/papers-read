@@ -47,6 +47,7 @@ A running log of research papers I've read.
 
 - Harness Engineering for Self-Improvement — Weng, 2026
 - Toolformer: Language Models Can Teach Themselves to Use Tools — Schick et al., 2023
+- Sparks of Cooperative Reasoning: LLMs as Strategic Hanabi Agents — Ramesh et al., 2026 (read 2026-09-03)
 
 ## Reasoning
 
