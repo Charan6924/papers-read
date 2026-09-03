@@ -59,6 +59,7 @@ A running log of research papers I've read.
 
 ## Efficiency
 
+- Latent Recurrent Transformer: Architecture Exploration, Training Strategies, and Scaling Behavior — Huang et al., 2026 (read 2026-09-03)
 - LoRA: Low-Rank Adaptation of Large Language Models — Hu et al., 2021
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness — Dao et al., 2022
 - FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning — Dao, 2023 (read 2026-08-31)
