@@ -51,6 +51,7 @@ A running log of research papers I've read.
 
 ## Reasoning
 
+- When Can Model-Free Reinforcement Learning be Enough for Thinking? — Hanna & Corrado, 2025 (read 2026-09-07)
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models — Wei et al., 2022
 - Self-Consistency Improves Chain of Thought Reasoning in Language Models — Wang et al., 2022
 - Tree of Thoughts: Deliberate Problem Solving with Large Language Models — Yao et al., 2023
