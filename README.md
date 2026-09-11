@@ -31,6 +31,7 @@ A running log of research papers I've read.
 
 ## Alignment & Safety
 
+- PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment — Chen et al., 2025 (read 2026-09-11)
 - Constitutional AI: Harmlessness from AI Feedback — Bai et al., 2022
 - Learning to Summarize from Human Feedback — Stiennon et al., 2020
 - Proximal Policy Optimization Algorithms (PPO) — Schulman et al., 2017
