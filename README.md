@@ -62,6 +62,7 @@ A running log of research papers I've read.
 ## Efficiency
 
 - INSTA: An Ultra-Fast, Differentiable, Statistical Static Timing Analysis Engine for Industrial Physical Design Applications — Lu et al., 2025 (read 2026-09-12)
+- OpenTimer v2: A New Parallel Incremental Timing Analysis Engine — Huang, Guo, Lin & Wong, 2021 (read 2026-09-15)
 - Specialized Foundation Models Struggle to Beat Supervised Baselines — Xu et al., 2025 (read 2026-09-10)
 - Latent Recurrent Transformer: Architecture Exploration, Training Strategies, and Scaling Behavior — Huang et al., 2026 (read 2026-09-03)
 - SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines — Li, Huang & Ogras, 2026 (read 2026-09-08)
