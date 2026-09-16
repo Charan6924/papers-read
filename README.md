@@ -80,6 +80,10 @@ A running log of research papers I've read.
 - Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads — Cai et al., 2024
 - FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU — Sheng et al., 2023
 
+## Semi-Supervised Learning
+
+- Rethinking Confidence Scores and Thresholds in Pseudolabeling-based SSL — Vishwakarma et al., 2025 (read 2026-09-16)
+
 ## Vision
 
 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT) — Dosovitskiy et al., 2020
