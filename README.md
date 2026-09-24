@@ -27,7 +27,7 @@ A running log of research papers I've read.
 - Mixtral of Experts — Jiang et al., 2024
 - Scaling Laws Meet Model Architecture: Toward Inference-Efficient LLMs — Bian et al., 2025
 - GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers — Frantar et al., 2022
-- Mamba: Linear-Time Sequence Modeling with Selective State Spaces — Gu & Dao, 2023
+- Mamba: Linear-Time Sequence Modeling with Selective State Spaces — Gu & Dao, 2023 (read 2026-09-24)
 
 ## Alignment & Safety
 
