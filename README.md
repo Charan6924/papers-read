@@ -43,6 +43,8 @@ A running log of research papers I've read.
 
 - [RewardBench: Evaluating Reward Models for Language Modeling](https://arxiv.org/abs/2403.13787) — Lambert et al., 2024 (read 2026-09-27)
 
+- [PERSONA: A Reproducible Testbed for Pluralistic Alignment](https://aclanthology.org/2025.coling-main.752/) — Castricato et al., 2025 (read 2026-09-27)
+
 ## Human-Computer Interaction
 
 - Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025 — Huang et al., 2025
