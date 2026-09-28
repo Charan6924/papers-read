@@ -45,6 +45,8 @@ A running log of research papers I've read.
 
 - [PERSONA: A Reproducible Testbed for Pluralistic Alignment](https://aclanthology.org/2025.coling-main.752/) — Castricato et al., 2025 (read 2026-09-27)
 
+- [Fine-tuning Language Models to Find Agreement Among Humans with Diverse Preferences](https://arxiv.org/abs/2211.15006) — Bakker et al., 2022 (read 2026-09-27)
+
 ## Human-Computer Interaction
 
 - Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025 — Huang et al., 2025
