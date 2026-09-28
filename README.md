@@ -41,6 +41,8 @@ A running log of research papers I've read.
 - OpenAI o1 System Card — OpenAI, 2024
 - Reward Model Ensembles Help Mitigate Overoptimization — Coste et al., 2023
 
+- [RewardBench: Evaluating Reward Models for Language Modeling](https://arxiv.org/abs/2403.13787) — Lambert et al., 2024 (read 2026-09-27)
+
 ## Human-Computer Interaction
 
 - Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025 — Huang et al., 2025
