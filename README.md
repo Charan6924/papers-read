@@ -31,6 +31,7 @@ A running log of research papers I've read.
 
 ## Alignment & Safety
 
+- [Conformal Prediction (lecture notes)](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf) — Ryan Tibshirani, 2023 (reviewed 2026-10-01)
 - [Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning](https://papers.nips.cc/paper_files/paper/2024/hash/5e1c255653eb98cef13f45b2d337c882-Abstract-Conference.html) — Poddar et al., 2024 (read 2026-09-29)
 - [When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning](https://aclanthology.org/2025.findings-emnlp.916/) — Dong et al., 2025 (read 2026-09-28)
 - PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment — Chen et al., 2025 (read 2026-09-11; reread 2026-09-27)
