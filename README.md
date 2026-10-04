@@ -31,6 +31,7 @@ A running log of research papers I've read.
 
 ## Alignment & Safety
 
+- [ClashEval: Quantifying the tug-of-war between an LLM's internal prior and external evidence](https://arxiv.org/abs/2404.10198) — Wu, Wu & Zou, 2024 (read 2026-10-03)
 - [Knowledge Conflicts for LLMs: A Survey](https://aclanthology.org/2024.emnlp-main.486/) — Xu et al., 2024 (read 2026-10-02)
 - [Conformal Prediction (lecture notes)](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf) — Ryan Tibshirani, 2023 (reviewed 2026-10-01)
 - [Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning](https://papers.nips.cc/paper_files/paper/2024/hash/5e1c255653eb98cef13f45b2d337c882-Abstract-Conference.html) — Poddar et al., 2024 (read 2026-09-29)
