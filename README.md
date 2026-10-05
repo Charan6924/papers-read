@@ -129,3 +129,7 @@ A running log of research papers I've read.
 - Sarathi: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills — Agrawal et al., 2023
 - DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving — Zhong et al., 2024
 - Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving — Qin et al., 2024
+
+## Computer Systems & Networking
+
+- [TAU 2015 Contest on Incremental Timing Analysis](https://ieeexplore.ieee.org/document/7372664) — Hu, Schaeffer & Garg, 2015 (read 2026-10-05)
