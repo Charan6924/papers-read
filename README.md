@@ -69,6 +69,7 @@ A running log of research papers I've read.
 
 ## Reasoning
 
+- [Reasoning with Latent Thoughts: On the Power of Looped Transformers](https://arxiv.org/abs/2502.17416) — Saunshi et al., 2025 (read 2026-10-12)
 - When Can Model-Free Reinforcement Learning be Enough for Thinking? — Hanna & Corrado, 2025 (read 2026-09-07)
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models — Wei et al., 2022
 - Self-Consistency Improves Chain of Thought Reasoning in Language Models — Wang et al., 2022
