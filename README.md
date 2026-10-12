@@ -31,6 +31,7 @@ A running log of research papers I've read.
 
 ## Alignment & Safety
 
+- [Tug-of-War Between Knowledge: Exploring and Resolving Knowledge Conflicts in Retrieval-Augmented Language Models](https://aclanthology.org/2024.lrec-main.1466.pdf) — Jin et al., 2024 (read 2026-10-12)
 - [Stealing Reasoning Traces from Proprietary LLM APIs](https://arxiv.org/abs/2608.09867) — Panfilov et al., 2026 (read 2026-10-04)
 - [ClashEval: Quantifying the tug-of-war between an LLM's internal prior and external evidence](https://arxiv.org/abs/2404.10198) — Wu, Wu & Zou, 2024 (read 2026-10-03)
 - [Knowledge Conflicts for LLMs: A Survey](https://aclanthology.org/2024.emnlp-main.486/) — Xu et al., 2024 (read 2026-10-02)
