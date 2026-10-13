@@ -31,6 +31,7 @@ A running log of research papers I've read.
 
 ## Alignment & Safety
 
+- [Large Language Models in Resolving Contextual Knowledge Conflicts](https://arxiv.org/abs/2609.03148) — Yang et al., 2026 (read 2026-10-13)
 - [KC-Bench: A Dynamic Interactive Benchmark for Evaluating Knowledge Conflicts in LLM Agents](https://arxiv.org/abs/2609.03588) — Lyu et al., 2026 (read 2026-10-13)
 - [Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict](https://arxiv.org/abs/2610.12360) — Sun et al., 2026 (read 2026-10-12)
 - [Tug-of-War Between Knowledge: Exploring and Resolving Knowledge Conflicts in Retrieval-Augmented Language Models](https://aclanthology.org/2024.lrec-main.1466.pdf) — Jin et al., 2024 (read 2026-10-12)
