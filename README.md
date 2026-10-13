@@ -32,6 +32,7 @@ A running log of research papers I've read.
 
 ## Alignment & Safety
 
+- [Entity-Based Knowledge Conflicts in Question Answering](https://arxiv.org/abs/2109.05052) — Longpre et al., 2021 (read 2026-10-13)
 - [ConflictRAG: Detecting and Resolving Knowledge Conflicts in Retrieval Augmented Generation](https://arxiv.org/abs/2605.17301) — Wang et al., 2026 (read 2026-10-13)
 - [Large Language Models in Resolving Contextual Knowledge Conflicts](https://arxiv.org/abs/2609.03148) — Yang et al., 2026 (read 2026-10-13)
 - [KC-Bench: A Dynamic Interactive Benchmark for Evaluating Knowledge Conflicts in LLM Agents](https://arxiv.org/abs/2609.03588) — Lyu et al., 2026 (read 2026-10-13)
