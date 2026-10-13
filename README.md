@@ -4,6 +4,7 @@ A running log of research papers I've read.
 
 ## Transformers & Language Models
 
+- [Muse Wonder Model Card](https://research.meta.ai/static/muse-wonder-model-card) — Meta, 2026 (model card; read 2026-10-13)
 - Attention Is All You Need — Vaswani et al., 2017
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding — Devlin et al., 2018
 - Language Models are Few-Shot Learners (GPT-3) — Brown et al., 2020
