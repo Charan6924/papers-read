@@ -85,6 +85,8 @@ A running log of research papers I've read.
 
 ## Efficiency
 
+- [Addressing Continuity and Expressivity Limitations in Differentiable Physical Optimization: A Case Study in Gate Sizing](https://guozz.cn/publication/dpogatesizeiseda-25/dpogatesizeiseda-25.pdf) — Du et al., 2025 (read 2026-11-05)
+
 - INSTA: An Ultra-Fast, Differentiable, Statistical Static Timing Analysis Engine for Industrial Physical Design Applications — Lu et al., 2025 (read 2026-09-12)
 - OpenTimer v2: A New Parallel Incremental Timing Analysis Engine — Huang, Guo, Lin & Wong, 2021 (read 2026-09-15)
 - Specialized Foundation Models Struggle to Beat Supervised Baselines — Xu et al., 2025 (read 2026-09-10)
