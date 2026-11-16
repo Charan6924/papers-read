@@ -32,6 +32,7 @@ A running log of research papers I've read.
 
 ## Alignment & Safety
 
+- [Reinforcement Learning via Self-Distillation](https://arxiv.org/pdf/2601.20802) — Hübotter et al., 2026 (read 2026-11-16)
 - [Entity-Based Knowledge Conflicts in Question Answering](https://arxiv.org/abs/2109.05052) — Longpre et al., 2021 (read 2026-10-13)
 - [ConflictRAG: Detecting and Resolving Knowledge Conflicts in Retrieval Augmented Generation](https://arxiv.org/abs/2605.17301) — Wang et al., 2026 (read 2026-10-13)
 - [Large Language Models in Resolving Contextual Knowledge Conflicts](https://arxiv.org/abs/2609.03148) — Yang et al., 2026 (read 2026-10-13)
